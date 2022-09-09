@@ -34,7 +34,7 @@ a:hover {
   <body>
   <nav class="navbar navbar-dark navbar-expand-lg dark  sticky-top" style="background-color: #a70000;">
  <div class="container-fluid">
-<a class="navbar-brand" href="#"> <img src="ngopi-id.png" width="25%" height="25%" alt=""></a>
+<a class="navbar-brand" href="#"><img src="ngopi-id.png" width="25%" height="25%" alt=""></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
